@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![](https://komarev.com/ghpvc/?username=gmnchamikara&color=green)
+![](https://komarev.com/ghpvc/?username=gmnchamikara&color=green&label=PROFILE+VIEWS)
 
