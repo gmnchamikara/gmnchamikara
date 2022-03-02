@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**gmnchamikara/gmnchamikara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Nuwan Chamikara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
