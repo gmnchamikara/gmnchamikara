@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**Nuwan Chamikara**.
+**Nuwan Chamikara**
 
 Here are some ideas to get you started:
 
