@@ -1,8 +1,8 @@
 
 
-<p align="center" width="100%">
+
     <img width="300" src="https://media.giphy.com/media/xiSZGYjpYgzkipNS7x/giphy.gif">
-</p>
+
 
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Nuwan Chamikara</h1>
