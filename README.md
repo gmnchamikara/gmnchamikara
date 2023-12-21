@@ -1,4 +1,4 @@
-
+<img src="https://media.giphy.com/media/xiSZGYjpYgzkipNS7x/giphy.gif" width="100%">
 
 <p align="center" width="100%">
     <img width="300" src="https://github.com/gmnchamikara/readme/blob/main/profile.gif">
