@@ -1,7 +1,7 @@
 
 
 
-<img src="https://media.giphy.com/media/xiSZGYjpYgzkipNS7x/giphy.gif" width="100%">
+<img src="https://github.com/gmnchamikara/readme/blob/main/profile.gif" width="100%">
 
 
 <div align="center">
