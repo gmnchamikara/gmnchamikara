@@ -1,7 +1,7 @@
 
 
 <p align="center" width="100%">
-    <img width="300" src="https://github.com/Rahulfordev/img-file/blob/main/profile.gif](https://github.com/gmnchamikara/readme/blob/main/profile.gif">
+    <img width="300" src="https://github.com/gmnchamikara/readme/blob/main/profile.gif">
 </p>
 
 <div align="center">
