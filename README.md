@@ -1,9 +1,7 @@
-[![Build Status](https://travis-ci.org/Commit451/ElasticDragDismissLayout.svg?branch=master)](https://travis-ci.org/Commit451/ElasticDragDismissLayout) [![](https://jitpack.io/v/Commit451/ElasticDragDismissLayout.svg)](https://jitpack.io/#Commit451/ElasticDragDismissLayout)
 
-<img src="/art/sample.gif?raw=true" width="200px">
 
 <p align="center" width="100%">
-    <img width="300" src="https://github.com/Rahulfordev/img-file/blob/main/profile.gif">
+    <img width="300" src="https://github.com/Rahulfordev/img-file/blob/main/profile.gifraw=true">
 </p>
 
 <div align="center">
