@@ -1,11 +1,11 @@
 
+<div align="center">
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Nuwan Chamikara</h1>
 
 
 <img src="https://github.com/gmnchamikara/readme/blob/main/profile.gif" width="100%">
 
 
-<div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Nuwan Chamikara</h1>
 
   
 <h4 align="center">a freelance developer an also an engineering students at SLIIT, see my <a href="https://github.com/1999AZZAR/1999AZZAR/blob/main/assets/doc/azzar_resume.pdf" target="_blank">resume</a> for more</h4>
