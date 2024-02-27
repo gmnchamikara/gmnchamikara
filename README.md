@@ -3,16 +3,19 @@
 <h1 align="center">Hi <img width="35" src="https://github.com/gmnchamikara/readme/blob/main/wave.gif">, I'm Nuwan Chamikara</h1>
 
 <!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://github.com/gmnchamikara/readme/blob/main/line.gif">
 
 <!--main Image-->
 <img src="https://github.com/gmnchamikara/readme/blob/main/profile.gif" width="100%">
+
+<!--horizontal divider(gradiant)-->
+<img src="https://github.com/gmnchamikara/readme/blob/main/line.gif">
 
 <h4 align="center">a freelance developer and also an engineering student at SLIIT, see my <a href="https://github.com/1999AZZAR/1999AZZAR/blob/main/assets/doc/azzar_resume.pdf" target="_blank">resume</a> for more</h4>
 </div>
 
 <!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://github.com/gmnchamikara/readme/blob/main/line.gif">
 
 **Nuwan Chamikara**
 
