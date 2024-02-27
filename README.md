@@ -26,6 +26,8 @@
 
 **Nuwan Chamikara**
 
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Visio Innovation.
