@@ -22,7 +22,7 @@
 
 **Nuwan Chamikara**
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<img align="right" width=200px height=200px alt="side_sticker" src="https://github.com/gmnchamikara/readme/blob/main/aaa.gif" />
 
 Here are some ideas to get you started:
 
