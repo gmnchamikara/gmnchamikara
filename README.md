@@ -65,4 +65,4 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
 
-<h4>Thank You! 🤵 </h4>
+<h2>Thank You! 🤵 </h2>
