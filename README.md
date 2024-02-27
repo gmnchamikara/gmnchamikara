@@ -57,9 +57,4 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=gmnchamikara&color=brightgreen&label=PROFILE+VIEWS&style=plastic)
 
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
+
