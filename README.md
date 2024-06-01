@@ -5,7 +5,7 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=27F73A&background=FF1B2D00&center=true&random=false&width=440&lines=%E0%B6%86%E0%B6%BA%E0%B7%94%E0%B6%B6%E0%B7%9D%E0%B7%80%E0%B6%B1%E0%B7%8A...!;Welcome+to+my+Ptofile%C2%A0%E2%9D%A4;Call+me+Nuwan...;I+am+a+passionate+software+engineer...+;Postgraduate+Student+at+SLIIT..." alt="Typing SVG" /></a>
 </div>
-
+<!--[main Image](https://readme-typing-svg.demolab.com/demo/)-->
 <!--main Image-->
 <img src="https://github.com/gmnchamikara/readme/blob/main/profile.gif" width="100%">
 
