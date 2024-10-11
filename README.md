@@ -24,15 +24,14 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-- 🔭 I’m working at Visio Innovation, focusing on innovative software projects.
+- 🔭 I’m currently working at Visio Innovation, where we focus on innovative software engineering projects.
 - 🌱 I’m currently learning JavaScript & C#.
-- 👯 I want to collaborate on international projects, especially in software engineering and artificial intelligence.
-- 🤔 I’m seeking help expanding into international markets and growing expertise in AI-driven solutions.
-- 💬 Ask me about anything related to software engineering or AI.
-- 📫 How to reach me: Connect with me on LinkedIn or call me at NuOne.
-- 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I'm a software genius who loves creating smart, innovative solutions!
-
+- 👯 I’m looking to collaborate on international projects related to software engineering and artificial intelligence.
+- 🤔 I’m looking for help with expanding my knowledge in AI and building connections for global projects.
+- 💬 Ask me about anything related to software engineering, enterprise applications, and software architecture.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gmnchamikara/)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I can code smart solutions faster than I can plan my next coffee break!
 
 <div> 
   <a href="#  " target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
