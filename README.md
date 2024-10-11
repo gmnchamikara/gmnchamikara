@@ -25,13 +25,13 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 - 🔭 I’m working at Visio Innovation, focusing on innovative software projects.
-🌱 I’m currently learning JavaScript & C#.
-👯 I want to collaborate on international projects, especially in software engineering and artificial intelligence.
-🤔 I’m seeking help expanding into international markets and growing expertise in AI-driven solutions.
-💬 Ask me about anything related to software engineering or AI.
-📫 How to reach me: Connect with me on LinkedIn or call me at NuOne.
-😄 Pronouns: He/Him.
-⚡ Fun fact: I'm a software genius who loves creating smart, innovative solutions!
+- 🌱 I’m currently learning JavaScript & C#.
+- 👯 I want to collaborate on international projects, especially in software engineering and artificial intelligence.
+- 🤔 I’m seeking help expanding into international markets and growing expertise in AI-driven solutions.
+- 💬 Ask me about anything related to software engineering or AI.
+- 📫 How to reach me: Connect with me on LinkedIn or call me at NuOne.
+- 😄 Pronouns: He/Him.
+- ⚡ Fun fact: I'm a software genius who loves creating smart, innovative solutions!
 
 
 <div> 
