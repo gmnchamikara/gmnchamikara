@@ -24,7 +24,7 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-- 🔭 I’m currently working as an freelancer, where we focus on innovative software engineering projects.
+- 🔭 I’m currently working as a freelancer, where we focus on innovative software engineering projects.
 - 🌱 I’m currently learning JavaScript, Python & C#.
 - 👯 I’m looking to collaborate on international projects related to software engineering and artificial intelligence.
 - 🤔 I’m looking for help with expanding my knowledge in AI and building connections for global projects.
